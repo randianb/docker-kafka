@@ -1,6 +1,6 @@
 # Kafka and Zookeeper
 
-FROM centos
+FROM centos:7
 
 ENV SCALA_VERSION 2.12
 ENV KAFKA_VERSION 2.3.0
